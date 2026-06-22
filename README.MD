@@ -1,5 +1,23 @@
 # Behavioral Analysis of Generative AI Usage on Student Performance
 
+# Quick Summary
+
+What this project is:
+This project analyzes how Generative AI usage affects student academic performance, skill retention, and well-being using a dataset of 50,000 students.
+
+Tools used:
+Python, Pandas, NumPy, Matplotlib, Seaborn
+
+What I found:
+
+- Moderate AI usage (8–16 hrs/week) is linked to the best GPA improvement
+- Higher AI usage tends to reduce skill retention
+- Prompt engineering skill is a strong predictor of academic success
+- AI dependency is linked more to burnout and anxiety than GPA changes
+- Overall, AI is beneficial when used skillfully, not excessively
+
+---
+
 ## Overview
 
 This project analyzes how Generative AI usage influences academic performance, learning retention, and student well-being using a dataset of 50,000 student records.
